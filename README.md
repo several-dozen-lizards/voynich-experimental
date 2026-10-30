@@ -4,6 +4,10 @@ A tiny autoregressive transformer trained on EVA transcription of the Voynich ma
 
 It generates manuscript-like EVA text. It has no established translation or decipherment ability, English instruction training, or learned chat roles.
 
+## Occult disclaimer
+
+The author accepts no responsibility for demons summoned, time travelers burned at the stake for sorcery, bad astrology, or other malignancies associated with use of this model. Exorcism support is outside the scope of this repository.
+
 ## Run locally
 
 Requires Python 3.11 or newer. Clone the repository and create an environment:
