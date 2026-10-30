@@ -1,0 +1,11 @@
+{
+  "text_eva": " or ol al dchy qokar ytodar chol da",
+  "prompt_eva": "qokedy chedy",
+  "seed": 42,
+  "temperature": 0.8,
+  "max_tokens": 32,
+  "font": "Fairfax EVA HD",
+  "font_source": "https://github.com/kreativekorp/voynich-unicode/blob/481434bb3be79783a20c2d66a1648bdf9fa0866f/Fairfax/FairfaxEVAHD.ttf",
+  "font_sha256": "0ee25d2db905b7a5176c5b67ca136bae470ef086e63f25b5a63544b3b2eb8168",
+  "description": "Existing verified model output rendered as a static image; not a manuscript photograph or a translation."
+}

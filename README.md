@@ -28,6 +28,12 @@ The example generation produces:
  or ol al dchy qokar ytodar chol da
 ```
 
+The same output rendered in [Fairfax EVA HD](https://github.com/kreativekorp/voynich-unicode), so you can see the glyphs without installing a font:
+
+![Model output in Voynich glyphs: or ol al dchy qokar ytodar chol da](assets/voynich-output.png)
+
+This changes the appearance of the EVA text only; it is not a translation. [Sample and font provenance](assets/voynich-output.json).
+
 The initial space is part of the generated continuation. Seeded sampling is reproducible in the verified PyTorch environment; exact samples may vary across PyTorch versions or platforms.
 
 The server listens on `http://127.0.0.1:8767`. Its OpenAI-compatible base URL is `http://127.0.0.1:8767/v1`, model ID `voynich-experimental`. Endpoints: `/health`, `/v1/models`, `/v1/chat/completions`. A local client may use a placeholder API key. Do not expose this unauthenticated local server to the internet.
