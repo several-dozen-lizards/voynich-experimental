@@ -1,0 +1,16 @@
+{
+  ".gitignore": "f91d9a7a8ce29940791f518deaaa6a5ac3e2b1ad79cfda0280be29c2e83e1626",
+  "configs/phase3.json": "9a99a36db789b274a696754b926c8878737844b1b0169209235bbce176b0b5e8",
+  "generate.py": "7b98f85d66a82d208b8350ab649d6bbf0dbf330a9d142d2bc048164de4ea6b41",
+  "provenance/config.json": "ca1d33076dad5f59146bb802979a76dd900ec1d0e5e31f5f3791d23ad14f8f8b",
+  "provenance/metrics.json": "a589ceae029a5fdfdfa3405c84d88c9fb1db3ee566836621f51ffc93d9f349b5",
+  "provenance/VERIFICATION.json": "bd119541ae61c35ad562b666263c87d07bd50cba8afa9660593e8f66c43f1552",
+  "README.md": "07aecac6a3647ff1180f18637367c72ccdabb82b6af842a59c4b236eab46089c",
+  "requirements.txt": "5fb69dad02413c1f33bf106f5e03a8b3cb4fc9a380d5bea3a13c564944590b83",
+  "server.py": "dfb8ec606b6541534ac27fb79b9319cbb76a44fdb437174f4fba239450ad1459",
+  "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "src/tokenize.py": "631f2c390d657a3c4ea0036a28c2788c77594a5a9acc663ecff3dff72bfa602a",
+  "src/train.py": "347efdf0d7d0ed64d9a2d0c1339716a20c7ab44ca12fd51ca824416f3dd226d8",
+  "tests/test_model.py": "928c24361d868f21529a7930914b30eb40e47d245b20e570e40c8fe9b8fc7157",
+  "weights/model.pt": "9342df1f11f874676dc0dd3e8ba8409ca158d1e8474077aa42644302182b6651"
+}

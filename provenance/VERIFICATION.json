@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checks": {
+    "real_checkpoint_tests_passed": 4,
+    "architecture_ast_matches_original": true,
+    "tokenizer_bytes_match_original": true,
+    "gateway_changes": "only package root and checkpoint path defaults",
+    "checkpoint_sha256": "9342df1f11f874676dc0dd3e8ba8409ca158d1e8474077aa42644302182b6651"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "torch": "2.9.1+cu128",
+    "device": "cpu"
+  },
+  "limits": [
+    "Existing lab dependency installation reused; fresh pip installation not exercised.",
+    "Initial sandbox HTTP probe failed with WinError 10013; full four-test run passed outside the network-restricted sandbox.",
+    "Initial expected sample omitted the actual leading space; test expectation corrected, model unchanged.",
+    "No training or resident activity performed."
+  ]
+}
